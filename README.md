@@ -7,8 +7,7 @@ Python Programming for Beginners
 [강의연도] 2023년도
 
 [Textbook] 
-1) 따라하며 배우는 파이썬과 데이터 과학 파이썬으로 시작하는 데이터 과학과 기계학습 (저자:천인국,박동규,강영민, 생능출판사)
-   -- https://github.com/dongupak/DataSciPy
+1) 따라하며 배우는 파이썬과 데이터 과학 파이썬으로 시작하는 데이터 과학과 기계학습 (저자:천인국,박동규,강영민, 생능출판사)    https://github.com/dongupak/DataSciPy
 2) 강의자료 별도
 
 [참고자료]  
